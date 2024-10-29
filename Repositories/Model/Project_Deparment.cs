@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace QuanLyHoSoDuAn.Model
+namespace Repositories.Model;
+
+public partial class ProjectDepartment
 {
-    public class Project_Deparment
-    {
-        public string ProjectID { get; set; }
-        public string DeparmentID { get; set; }
-    }
+    public string ProjectId { get; set; } = null!;
+
+    public string DepartmentId { get; set; } = null!;
+
+    public virtual Project Project { get; set; } = null!;
+
+    public virtual Department Department { get; set; } = null!;
 }

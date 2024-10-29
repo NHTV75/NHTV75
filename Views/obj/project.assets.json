@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Temp\\Views\\Views.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj",
       "projectName": "Views",
-      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Temp\\Views\\Views.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Temp\\Views\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

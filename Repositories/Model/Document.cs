@@ -1,20 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace QuanLyHoSoDuAn.Model
+namespace Repositories.Model;
+
+public partial class Document
 {
-    public class Document
-    {
-        public string DocumentID { get; set; }
-        public string ProjectID { get; set; }
-        public string DocumentName { get; set; }
-        public string Version { get; set; }
-        public string Status { get; set; }
-        public string SubmittedBy { get; set; }
-        public DateTime CreatedDate { get; set; }
-        public DateTime ModifiedDate { get; set; }
-    }
+    public string DocumentId { get; set; } = null!;
+
+    public string? DocumentName { get; set; }
+
+    public string? ProjectId { get; set; }
+
+    public string? Version { get; set; }
+
+    public string? Status { get; set; }
+
+    public string? SubmittedBy { get; set; }
+
+    public DateTime? CreatedDate { get; set; }
+
+    public DateTime? ModifiedDate { get; set; }
+
+    public virtual Project? Project { get; set; }
+
+    public virtual User? SubmittedByNavigation { get; set; }
+
+    public virtual ICollection<ProfileDocument> ProfileDocuments { get; set; } = new List<ProfileDocument>();
+
+    //public virtual ICollection<Profile> Profiles { get; set; } = new List<Profile>();
 }
