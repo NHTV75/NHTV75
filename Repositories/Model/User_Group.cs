@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace QuanLyHoSoDuAn.Model
+namespace Repositories.Model;
+
+public partial class UserGroup
 {
-    public class User_Group
-    {
-        public string UserID { get; set; }
-        public string GroupID { get; set; }
-        public string Role { get; set; }
-        public DateTime JoinedDate { get; set; }
-    }
+    public string UserId { get; set; } = null!;
+
+    public string GroupId { get; set; } = null!;
+
+    public string? Role { get; set; }
+
+    public DateTime? JoinedDate { get; set; }
+
+    public virtual Group Group { get; set; } = null!;
+
+    public virtual User User { get; set; } = null!;
 }

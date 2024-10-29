@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace QuanLyHoSoDuAn.Model
+namespace Repositories.Model;
+
+public partial class AccessPermission
 {
-    public class AccessPermission
-    {
-        public string PermissionID { get; set; }
-        public string UserID { get; set; }
-        public string ProfileID { get; set; }
-        public string AccessLevel { get; set; }
-    }
+    public int PermissionId { get; set; }
+
+    public string? UserId { get; set; }
+
+    public string? ProfileId { get; set; }
+
+    public string? AccessLevel { get; set; }
+
+    public virtual Profile? Profile { get; set; }
+
+    public virtual User? User { get; set; }
 }

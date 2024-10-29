@@ -1,20 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace QuanLyHoSoDuAn.Model
+namespace Repositories.Model;
+
+public partial class UserDepartment
 {
-    public partial class User_Department
-    {
-        public string UserID { get; set; }
-        public string DepartmentID { get; set; }
-        public string Role { get; set; }
-        public DateTime AssignedDate { get; set; }
+    public string UserId { get; set; } = null!;
 
-        public virtual User UserIDNavigation { get; set; }
-        public virtual Department DepartmentIDNavigation { get; set; }
+    public string DepartmentId { get; set; } = null!;
 
-    }
+    public string? Role { get; set; }
+
+    public DateTime? JoinedDate { get; set; }
+
+    public virtual Department Department { get; set; } = null!;
+
+    public virtual User User { get; set; } = null!;
 }
