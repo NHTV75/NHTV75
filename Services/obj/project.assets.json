@@ -3212,11 +3212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Services\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3237,8 +3237,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj"
+            "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj"
             }
           }
         }

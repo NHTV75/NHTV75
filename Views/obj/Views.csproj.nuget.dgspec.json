@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Views\\Views.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Views\\Views.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Views\\Views.csproj",
         "projectName": "Views",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\Views.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Views\\Views.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Views\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Views\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

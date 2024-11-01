@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocMana\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Hoc Tap\\2024-2025\\HK1-2024-2025\\Cong Nghe Phan Mem\\Github\\DocManaOld\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
